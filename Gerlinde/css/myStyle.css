@@ -4,3 +4,15 @@
 #collapseFive {
     display: auto;
 }
+.red_div {
+    background-color: red;
+    color: white;
+}
+.blue_div{
+    background-color: blue;
+    color: grey;
+}
+.grey_div{
+    background-color: grey;
+    color: black;
+}
