@@ -1,0 +1,24 @@
+Warm up questions
+Please discuss the following questions with your pair partner:
+
+What is Bootstrap?
+
+What can we do with Bootstrap?
+
+How can we download Bootstrap?
+
+What does the Bootstrap folder contain? Could you explain the purpose of every file?
+
+How can we add Bootstrap to a project? Could you explain the difference between these options?
+
+What is the Bootstrap grid?
+
+How many columns can fit in each grid row?
+12
+
+What is the difference between the classes col-md-4 and col-sm-4?
+the breakpoints of the screens, the columns are the same
+
+What does it mean offsetting columns in Bootstrap?
+
+An offset is used to push columns over for more spacing. To use offsets on large displays, use the . col-md-offset-* classes.
